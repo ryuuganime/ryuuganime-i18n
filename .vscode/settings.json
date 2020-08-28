@@ -1,0 +1,30 @@
+{
+    "cSpell.words": [
+        "hant",
+        "zh",
+        "zh hant",
+        "Ryuuganime",
+        "hjson",
+        "kitsu",
+        "romaji",
+        "ryuuganime",
+        "script",
+        "title",
+    ],
+    "cSpell.enableFiletypes": [
+        "bbcode",
+        "hjson",
+        "html",
+        "md",
+        "json",
+        "mediawiki",
+        "xml",
+        "yaml"
+    ],
+    //Calls dictionaries from various languages
+    "cSpell.language": "en,en-US,fr,fr-FR,de,de-DE,en-GB,pt,pt-PT,pt-BR,ru,es,es-ES",
+    "discord.workspaceElapsedTime": true,
+    "cSpell.ignoreWords": [
+        "minlength"
+    ]
+}

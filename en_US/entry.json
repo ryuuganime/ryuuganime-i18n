@@ -1,0 +1,41 @@
+{
+    "showType": {
+        "0": "Unknown",
+        "1": "TV",
+        "2": "ONA",
+        "3": "OVA",
+        "4": "OAD",
+        "5": "Special",
+        "6": "Movie",
+        "7": "Music"
+    },
+    "airingStatus": {
+        "0": "Unknown",
+        "1": "Aired",
+        "2": "Airing",
+        "3": "Planned",
+        "4": "TBA"
+    },
+    "releaseSeason": {
+        "0": "Unknown",
+        "1": "Spring",
+        "2": "Summer",
+        "3": "Fall",
+        "4": "Winter"
+    },
+    "adaptation": {
+        "0": "Original",
+        "1": "Manga",
+        "2": "Manhwa",
+        "3": "Manhua",
+        "4": "Webtoon",
+        "5": "Doujin",
+        "6": "Comic",
+        "7": "Novel",
+        "8": "Game",
+        "9": "Music",
+        "10": "Drama",
+        "11": "4-koma",
+        "12": "Fairy Tale"
+    }
+}

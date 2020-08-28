@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "natqe.reload",
+        "funkyremi.vscode-google-translate",
+        "mollykannn.vscode-chinese-translator",
+        //Basically, those are for Spelling Checker
+        "streetsidesoftware.code-spell-checker-russian",
+        "streetsidesoftware.code-spell-checker-spanish",
+        "streetsidesoftware.code-spell-checker-french",
+        "streetsidesoftware.code-spell-checker-portuguese",
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian"
+    ],
+    "unwantedRecommendations": [
+        "jakeboone02.mediawiki"
+    ]
+}

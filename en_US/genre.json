@@ -1,0 +1,82 @@
+{
+    "0": {
+        "title": "Action",
+        "description": ""
+    },
+    "1": {
+        "title": "Adventure",
+        "description": ""
+    },
+    "2": {
+        "title": "Comedy",
+        "description": ""
+    },
+    "3": {
+        "title": "Crime",
+        "description": ""
+    },
+    "4": {
+        "title": "Documentary",
+        "description": ""
+    },
+    "5": {
+        "title": "Drama",
+        "description": ""
+    },
+    "6": {
+        "title": "Fantasy",
+        "description": ""
+    },
+    "7": {
+        "title": "History",
+        "description": ""
+    },
+    "8": {
+        "title": "Horror",
+        "description": ""
+    },
+    "9": {
+        "title": "Mature",
+        "description": ""
+    },
+    "10": {
+        "title": "Music",
+        "description": ""
+    },
+    "11": {
+        "title": "Mystery",
+        "description": ""
+    },
+    "12": {
+        "title": "Psychological",
+        "description": ""
+    },
+    "13": {
+        "title": "Romance",
+        "description": ""
+    },
+    "14": {
+        "title": "Science Fiction",
+        "description": ""
+    },
+    "15": {
+        "title": "Slice of Life",
+        "description": ""
+    },
+    "16": {
+        "title": "Sport",
+        "description": ""
+    },
+    "17": {
+        "title": "Supernatural",
+        "description": ""
+    },
+    "18": {
+        "title": "Thriller",
+        "description": ""
+    },
+    "19": {
+        "title": "War",
+        "description": ""
+    }
+}
