@@ -1,0 +1,12 @@
+{
+    "boolean": {
+        "true": "True",
+        "false": "False"
+    },
+    "choice": {
+        "yes": "Yes",
+        "no": "No"
+    },
+    "empty": "Empty",
+    "null": "Unknown "
+}
