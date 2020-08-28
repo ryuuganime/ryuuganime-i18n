@@ -1,12 +1,20 @@
 {
-    "boolean": {
-        "true": "True",
-        "false": "False"
+    "system": {
+        "boolean": {
+            "true": "True",
+            "false": "False"
+        },
+        "choice": {
+            "yes": "Yes",
+            "no": "No"
+        },
+        "empty": "Empty",
+        "null": "Unknown",
     },
-    "choice": {
-        "yes": "Yes",
-        "no": "No"
-    },
-    "empty": "Empty",
-    "null": "Unknown "
+    "tags": "Tags",
+    "genre": "Genre",
+    "airingStatus": "Airing Status",
+    "season": "Season",
+    "countryOfOrigin": "Country of Origin",
+    "adaptation": "Adaptation"
 }
