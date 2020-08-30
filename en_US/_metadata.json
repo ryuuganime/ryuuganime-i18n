@@ -1,0 +1,26 @@
+{
+    "language": {
+        "name": {
+            "native": "English (United States)",
+            "en_US": "English (United States)",
+            "icuLocale": "en_US"
+        }
+    },
+    "author": [
+        {
+            "name": "",
+            "githubUsername": "",
+            "proficiency": 0,
+            "isOrganization": false
+        }
+    ],
+    "fileInfo": {
+        "countries.last_modification": "",
+        "entry.last_modification": "",
+        "genre.last_modification": "",
+        "languages.last_modification": "",
+        "locale.last_modification": "",
+        "tags.last_modification"
+    },
+    "isRightToLeft": false
+}
