@@ -1,0 +1,5 @@
+RENSCRIPT(no call && use !(interface.basic) && use !(ren.dict))
+010 read reverse
+020 add $(symbol.digitGrouping) after 3 of number
+030 repeat %(rule.010), then look at %(rule.035)
+035 if @(no digit left|1 to 3 digit left), then halt // else continue %(rule.010)
