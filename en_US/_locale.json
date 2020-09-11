@@ -68,24 +68,5 @@
         "firstDay": 0,
         "isAllowShortenedDay": true,
         "useDateDefinitionOnString": false
-    },
-    "numbers": {
-        "symbol": {
-            "decimal": ".",
-            "digitGrouping": ",",
-            "negative": "-",
-            "negativeOpen": null,
-            "negativeClose": null
-        },
-        "usage": {
-            "digitsAfterDecimal": 2,
-            "digitGrouping": {
-                "value": 3,
-                "script": "./script/digitGrouping.renscript"
-            },
-            "negative": "$(symbol.negative)$(digit)",
-            "standardDigits": "0123456789",
-            "useNativeDigit": 0
-        }
     }
 }

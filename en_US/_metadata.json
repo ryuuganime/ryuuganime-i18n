@@ -14,5 +14,10 @@
             "isOrganization": false
         }
     ],
-    "isRightToLeft": false
+    "isRightToLeft": false,
+    "localeSettings": {
+        "customLocaleID": "id_ID",
+        "measurementSystem": 1,
+        "localeConfigFile": "./_locale.json"
+    }
 }
